@@ -1,0 +1,29 @@
+Block,GEN,KILL,IN,OUT
+B0,int game_over_13;int player_health_9;int has_key_12;int choice_14;int has_sword_11;int player_location_10,,,int has_key_12;int has_sword_11;int choice_14;int game_over_13;int player_health_9;int player_location_10
+B1,,,int has_key_12;int has_sword_11;int choice_14;int game_over_13;int player_health_9;int player_location_10,int has_key_12;int has_sword_11;int choice_14;int game_over_13;int player_health_9;int player_location_10
+B2,player_location_46,player_location_46,int game_over_13;int player_health_9;int has_key_12;int choice_14;int has_sword_11;int player_location_10,int has_key_12;int has_sword_11;player_location_46;int game_over_13;int player_health_9;int player_location_10;int choice_14
+B3,player_location_49;game_over_52,player_location_49;game_over_52,player_location_46;int game_over_13;int player_health_9;int has_key_12;int choice_14;int has_sword_11;int player_location_10,player_location_49;player_location_46;int game_over_13;int player_health_9;game_over_52;int has_key_12;int choice_14;int has_sword_11;int player_location_10
+B4,,,,
+B5,,,,
+B6,player_location_75;has_sword_72;player_location_78,player_location_75;player_location_78,,player_location_75;has_sword_72;player_location_78
+B8,,,player_location_75;has_sword_72;player_location_78,player_location_75;has_sword_72;player_location_78
+B9,player_location_92,player_location_92,player_location_75;has_sword_72;player_location_78,player_location_75;player_location_92;has_sword_72;player_location_78
+B10,player_location_95,player_location_95,player_location_78;player_location_75;player_location_92;has_sword_72,player_location_78;player_location_75;player_location_92;has_sword_72;player_location_95
+B11,,,,
+B12,int fight_outcome_108,,,int fight_outcome_108
+B13,player_location_119;player_location_114;has_key_112;player_health -_117,player_location_119;player_location_114;player_health -_117,int fight_outcome_108,player_location_119;player_location_114;has_key_112;int fight_outcome_108;player_health -_117
+B15,player_location_125;player_health -_123,player_location_125;player_health -_123,player_location_119;player_location_114;has_key_112;int fight_outcome_108;player_health -_117,player_location_119;player_location_125;player_location_114;has_key_112;player_health -_123;int fight_outcome_108;player_health -_117
+B16,,,,
+B17,,,,
+B18,int dragon_fight_143,,,int dragon_fight_143
+B19,,,int dragon_fight_143,int dragon_fight_143
+B20,player_location_149;game_over_153,player_location_149;game_over_153,int dragon_fight_143,player_location_149;int dragon_fight_143;game_over_153
+B22,player_health_161;player_health_157,,player_location_149;game_over_153;int dragon_fight_143,player_health_161;player_location_149;player_health_157;game_over_153;int dragon_fight_143
+B24,int sneak_outcome_165,,player_health_161;player_location_149;player_health_157;game_over_153;int dragon_fight_143,player_health_161;player_location_149;player_health_157;int sneak_outcome_165;int dragon_fight_143;game_over_153
+B25,,,player_health_161;player_location_149;player_health_157;int sneak_outcome_165;int dragon_fight_143;game_over_153,player_health_161;player_location_149;player_health_157;int sneak_outcome_165;int dragon_fight_143;game_over_153
+B26,player_location_170;player_location_174,player_location_170;player_location_174,player_health_161;player_location_149;player_health_157;game_over_153;int sneak_outcome_165;int dragon_fight_143,player_health_161;player_location_149;player_health_157;game_over_153;player_location_174;player_location_170;int sneak_outcome_165;int dragon_fight_143
+B28,player_health -_178;player_location_184;player_location_180,,player_health_161;player_location_149;player_health_157;game_over_153;player_location_174;player_location_170;int sneak_outcome_165;int dragon_fight_143,player_health_161;player_location_149;player_location_184;player_health_157;player_health -_178;int dragon_fight_143;player_location_174;player_location_180;player_location_170;int sneak_outcome_165;game_over_153
+B29,game_over_195,game_over_195,,game_over_195
+B30,,,,
+B31,,,,
+B32,game_over_204,,,game_over_204
